@@ -1,0 +1,92 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Explorer Lab 01",
+      "url_project": "https://explorer-lab-01-rust.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://imgur.com/a6na3xf.png",
+      "technologies": ["HTML","CSS","JavaScript Vanilla","IMask"]
+    },
+    {
+      "id": 2,
+      "title": "",
+      "url_project": "https://projeto-09.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/k0zsFl6.png",
+      "technologies": ["HTML","CSS","JavaScript Vanilla"]
+    },
+    {
+      "id": 3,
+      "title": "",
+      "url_project": "https://controle-financeiro-final.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/U3N3RUX.png",
+      "technologies": ["React","React Router Dom","Styled Components"]
+    },
+    {
+      "id": 4,
+      "title": "",
+      "url_project": "https://genuina-project.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/abneYTT.png",
+      "technologies": ["React","Vite","Google Maps API", "Axios", "React Router Dom", "YouTube API","CSS"]
+    },
+    {
+      "id": 5,
+      "title": "",
+      "url_project": "https://clone-dio-login.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/8mGr5cI.png",
+      "technologies": ["React","React Router Dom","Axios","React Hook Form", "Styled Components", "YUP"]
+    },
+    {
+      "id": 6,
+      "title": "",
+      "url_project": "https://jogo-da-memoria-blue.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/iKfSOob.png",
+      "technologies": ["HTML","CSS","JavaScript Vanilla"]
+    },
+    {
+      "id": 7,
+      "title": "",
+      "url_project": "https://pokedex-kappa-snowy.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/XFbfCvx.png",
+      "technologies": ["HTML","CSS","JavaScript Vanilla", "Pokedex API"]
+    },
+    {
+      "id": 8,
+      "title": "",
+      "url_project": "https://psn-store.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/2AQKttS.png",
+      "technologies": ["Angular","TypeScript","CSS"]
+    },
+    {
+      "id": 9,
+      "title": "",
+      "url_project": "https://spider-man-mutiverse.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/f5jwMoJ.png",
+      "technologies": ["HTML","CSS","JavaScript Vanilla"]
+    },
+    {
+      "id": 10,
+      "title": "",
+      "url_project": "https://university-system.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/p3ChfB7.png",
+      "technologies": ["HTML","CSS","JavaScript Vanilla","Sweet Alert"]
+    },
+    {
+      "id": 11,
+      "title": "",
+      "url_project": "https://weather-app-cyan-five.vercel.app/",
+      "url_gitHub": "",
+      "thumbnail": "https://i.imgur.com/R8kTEP1.png",
+      "technologies": ["React","Vite","Axios","OpenWeather API","CSS"]
+    }
+  ]
+}
