@@ -3,9 +3,9 @@ import photo from "../assets/avatar.png";
 export const Greatings = () => {
   return (
     <div className="grid grid-cols-3 text-white w-full mb-10">
-      <div className="col-span-3 sm:col-span-2">
-        <h5 className="text-2xl">Hello, I'm Gabriel🫡</h5>
-        <h1 className="font-bebas_neue font-extrabold text-8xl mx-auto tracking-wider">
+      <div className="col-span-3 sm:col-span-2 mx-auto sm:mx-0">
+        <h5 className="text-2xl">Hello, I'm Gabriel 👨🏽‍💻</h5>
+        <h1 className="font-bebas_neue font-extrabold sm:text-8xl text-7xl mx-auto tracking-wider">
           FRONT END
           <br />
           DEVELOPER

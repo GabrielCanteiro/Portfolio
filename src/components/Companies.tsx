@@ -5,27 +5,27 @@ import villaresMetals from "../assets/vs-metals-logo.png";
 
 export const Companies = () => {
   return (
-    <div className="border-y py-4 grid place-content-center mb-5 overflow-x-hidden">
-      <div className="grid w-full gap-20 grid-cols-4 items-center overflow-auto">
+    <div className="border-y py-4 mb-5  ">
+      <div className="grid w-full gap-10 sm:grid-cols-4 grid-cols-2 items-center overflow-x-auto">
         <img
           src={rwInteractiveLogo}
           alt="RW Interactive"
-          className="max-w-[200px] grayscale "
+          className="w-[200px] grayscale "
         />
         <img
           src={stinkySocksLogo}
           alt="Stinky Socks Hockey"
-          className="max-w-[200px] grayscale "
+          className="w-[200px] grayscale "
         />
         <img
           src={supportPetsLogo}
           alt="Support Pets"
-          className="max-w-[200px] invert grayscale "
+          className="w-[200px] invert grayscale "
         />
         <img
           src={villaresMetals}
           alt="Support Pets"
-          className="max-w-[200px] invert grayscale"
+          className="w-[200px] invert grayscale"
         />
       </div>
     </div>
